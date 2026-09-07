@@ -14,16 +14,23 @@ export default function Hero() {
           The Care Circle
         </h2>
         <p className="text-xl md:text-[1.35rem] text-white/80 font-light leading-relaxed mb-3 tracking-tight" style={{ fontFamily: "'Playfair Display', Georgia, serif", fontStyle: 'italic' }}>
-          A safe place to be heard.
+          A place to be heard, cared for and supported in Christ.
+        </p>
+        <p className="text-xs md:text-sm font-bold text-white/90 uppercase tracking-widest leading-normal mb-3" style={{ fontFamily: "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" }}>
+           “Bear ye one another’s burdens...” <br /> — Galatians 6:2
         </p>
         <p className="text-base md:text-[1.05rem] text-white/50 leading-relaxed max-w-md mx-auto mb-9 font-light">
-          Whatever you're going through, you don't have to carry it alone. Share what you're experiencing, request support or prayer, or simply let someone know you need a listening ear.
+          Whatever you're going through, you don't have to carry it alone. Share what you're experiencing, request support or prayer, or simply let us know you need a listening ear.
+ <br/>
+ <br/>
+ You can also share your suggestions, ideas, concerns, or anything you feel we should know.
+ 
         </p>
         <a
           href="#support-form"
           className="inline-flex items-center gap-2.5 bg-secondary text-primary font-semibold px-7 py-3.5 rounded-full hover:bg-[#d4bc93] transition-colors shadow-[0_8px_30px_rgba(197,168,128,0.2)] active:scale-[0.98] text-[15px]"
         >
-          Share What You're Going Through
+          What's on your mind?
           <ArrowDown className="w-4 h-4" strokeWidth={2} />
         </a>
       </div>
