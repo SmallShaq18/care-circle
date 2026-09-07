@@ -1,0 +1,5 @@
+/* Placeholder for RCCG Sufficiency Parish logo
+ * Place the real logo file here: public/assets/rccg-logo.png
+ * The actual logo should include the green, navy, red, and white
+ * colors from the church's brand identity.
+ */
